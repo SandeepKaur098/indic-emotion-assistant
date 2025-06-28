@@ -1,3 +1,4 @@
+HEAD
 # 🎙️ Indic Emotion Assistant
 A speech-based emotion-aware virtual assistant for Indic languages using audio signal processing and machine learning.
 
@@ -35,3 +36,7 @@ indic-emotion-assistant/
 ├── LICENSE           # MIT license for protection
 ├── README.md         # You're reading it!
 └── requirements.txt  # All Python dependencies
+
+# indic-emotion-assistant
+A speech-based emotion-aware virtual assistant for Indic languages using ML and audio processing.
+084abd8647f45fc4c51b27c5e7651dacf45a79a5
