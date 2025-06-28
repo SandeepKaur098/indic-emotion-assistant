@@ -1,0 +1,26 @@
+# ✅ Python cache folders
+__pycache__/
+*.pyc
+
+# ✅ Colab/Notebook auto-generated files
+.ipynb_checkpoints/
+
+# ✅ Model and large binary files (optional)
+*.pkl
+*.h5
+*.joblib
+
+# ✅ Dataset audio files (if any exist locally)
+data/*.wav
+data/*.mp3
+
+# ✅ OS-specific files
+.DS_Store
+Thumbs.db
+
+# ✅ VS Code settings (if not needed)
+.vscode/
+
+# ✅ Environment files
+.env
+*.env
